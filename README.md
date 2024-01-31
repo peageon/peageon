@@ -5,7 +5,6 @@
 <p align="center"> Techs that I have used </p>
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3670A0?logo=python&logoColor=ffffff"/>&nbsp 
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>&nbsp 
   <img src="https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white"/>&nbsp 
   <br>
   <img src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white"/>&nbsp 
