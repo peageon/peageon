@@ -7,12 +7,14 @@
 <p align="center">
 </p>
 <p align="center">
-  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
-  <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="65" />
-  <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" height="65" />
-  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
-</p>
-<p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-323330?logo=javascript&logoColor=F7DF1E"/>&nbsp
+  <img src="https://img.shields.io/badge/TypeScript-%23007ACC?logo=typescript&logoColor=white"/>&nbsp
+  <img src="https://img.shields.io/badge/Python-3670A0?logo=python&logoColor=ffffff"/>&nbsp
+  <img src="https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white"/>&nbsp
+  <br>
+  <img src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white"/>&nbsp 
+  <img src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white"/>
+  <br>
   <img src="https://img.shields.io/badge/nodejs-6DA55F?logo=node.js&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/express-FFFFFF?logo=express&logoColor=000000"/>&nbsp
   <img src="https://img.shields.io/badge/nestjs-%23E0234E?logo=nestjs&logoColor=white"/>
