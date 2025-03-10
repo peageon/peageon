@@ -1,7 +1,17 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=220&text=Jinsoo%20Choi&fontSize=60&color=0:e05843,100:e0901f&fontColor=964B00" />
+  Hi, my name is <ins><strong>Jinsoo</strong></ins>. <br/>
+  I work with whatever you throw at me. <br />
+  I do mostly backend stuff. <br /> <br />
+  I have used <br />
+  <ins>Nest.js + TypeScript + Prisma</ins> <br />
+  <ins>Spring MVC with JSP and MyBatis</ins> <br />
+  and others...<br /> <br />
+  Looking forward to getting thrown more stuff at me.🥕 <br /> <br />
+  Thanks 🙏
 </p>
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer" />
+<br />
+<br />
+<p align="right">
+  Email: <a href="mailto:jinsoo2005@gmail.com">jinsoo2005@gmail.com</a><br />
+  Location: <strong>South Korea</strong><br /> (but I'm Canadian)<br />
 </p>
-
