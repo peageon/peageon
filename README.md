@@ -13,5 +13,5 @@
 <br />
 <p align="right">
   Email: <a href="mailto:jinsoo2005@gmail.com">jinsoo2005@gmail.com</a><br />
-  Location: <strong>South Korea</strong><br /> (but I'm Canadian)<br />
+  Location: <strong>South Korea</strong><br />
 </p>
