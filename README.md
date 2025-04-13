@@ -6,8 +6,8 @@
   <ins>Nest.js + TypeScript + Prisma</ins> <br />
   <ins>Spring MVC with JSP and MyBatis</ins> <br />
   and others...<br /> <br />
-  Looking forward to getting thrown more stuff at me.🥕 <br /> <br />
-  Thanks 🙏
+  Looking forward to getting thrown more stuff at me. <br /> <br />
+  Thanks
 </p>
 <br />
 <br />
